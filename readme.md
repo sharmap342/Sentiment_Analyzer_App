@@ -2,7 +2,7 @@
 
 ### To see the sentiment analyzer app in action check out the video "Streamlit_App.mp4" 
 
-### The requiremets.txt contains information about the virutal environment used in Python. 
+__The requiremets.txt contains information about the virutal environment used in Python__ 
 
 ### The code folder contains all the relavant codes in notebooks and py files as described below:
 
