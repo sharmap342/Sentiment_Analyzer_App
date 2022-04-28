@@ -4,6 +4,10 @@
 
 ### The requiremets.txt contains information about the virutal environment used in Python. 
 
-### The code folder contains all the relavant codes in notebooks py files.   
+### The code folder contains all the relavant codes in notebooks and py files as described below:
+
+
+  Notebook 1: 1_Data_Cleaning_EDA
+  This notebook contains information about process of data collection for modelling. Different steps taken for data cleaning, and EDA are also described in this notebook. Following is the table of contents for this notebook.
 
 
